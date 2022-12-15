@@ -95,7 +95,7 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "ejs": "^2.6.1",
+    "ejs": "^2.7.4",
     "moment": "^2.24.0",
     "openurl": "^1.1.1",
     "twitter": "^1.7.1",
